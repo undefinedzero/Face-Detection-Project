@@ -31,4 +31,5 @@
 
   - Loss
 
-    ![loss](./loss.png)
+
+![loss](./loss.png)
